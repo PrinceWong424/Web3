@@ -1,0 +1,15 @@
+WEB3 Requirements list - 13/12/2017
+
+intervention pixelation - Ryan
+admin group - Jue
+public profile global readable (edit privately) - Jue
+make design not terrible - Ryan
+make new page on dashboard when more than X articles - Ryan
+watermark on content + profile images - Ivailo
+export content with image to pdf - Ivailo
+RESTful API on content (CRUD - image only need read and delete) - Ryan
+
+
+//extra 
+  1 .user comment on article 
+2. favorite article - >favorite  shown public profile in a new ta
